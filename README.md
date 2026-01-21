@@ -19,7 +19,7 @@ The Goodreads Profile Redesign is a UI/UX case study completed as a team-based p
 
 ## :memo: CASE STUDY SUMMARY
 ### :mag: USER RESEARCH
-Our target subpopulation for the case study was new adult avid readers, ages 18 and 30. Most interviewees expressed dissatisfaction with the Goodreads Discover page, noting that it populates long book lists with outdated, generic titles, instead of offering a streamlined selection of tailored recommendations. Despite this, users placed significant trust in the Goodreads community, particularly in ratings and reviews. Together, these insights suggested that while many users do not rely on the algorithm for the discovery of books, they heavily depend on the community's input to guide their reading choices.
+Our target subpopulation for the case study was new adult avid readers, ages 18 and 30. Most interviewees expressed dissatisfaction with the Goodreads Discover page, noting that it populates long book lists with outdated, generic titles, instead of offering a streamlined selection of tailored recommendations. Another discovery was made was that users placed significant trust in the Goodreads community, particularly in ratings and reviews. Together, these insights suggested that while many users do not rely on the algorithm for the discovery of books, they heavily depend on the community's input to guide their reading choices.
 
 ### :bulb: SYNTHESIS
 Based on these insights, we identified an opportunity to emphasize user-driven discovery rather than algorithmic recommendations. We theorized that users would much rather explore recommendations shown on other user's profiles instead of relying on the Discover page.
