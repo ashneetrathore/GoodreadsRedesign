@@ -7,7 +7,7 @@ Based on assignment instructions from Prof. Shri Jambhekar
 
 Goodreads is a social platform created for readers to discover, catalog, and share books. Users are able to see what their friends are reading and reviewing, publish book reviews, and organize books into custom shelves.
 
-The Goodreads Profile Redesign is a UI/UX case study completed as a team-based project, focused on improving the user profile page on the Goodreads website. The project followed a three-phase design process: user research, synthesis, and redesign. Teams were given the flexibility to evaluate and redesign any feature or page within a chosen platform. Based on early user research findings, our team selected the Goodreads profile page as the focus of this project. This repository serves as a centralized hub for all project artifacts, including research documentation and Figma pages.
+The Goodreads Profile Redesign is a UI/UX case study focused on improving the user profile page on the Goodreads website. The project followed a three-phase design process: user research, synthesis, and redesign. Teams were given the flexibility to evaluate and redesign any feature or page within a platform of their choice. Based on early user research findings, our team selected the Goodreads profile page as the focus of this project. This repository serves as a centralized hub for all project artifacts, including research documentation and Figma pages.
 
 ## :package: PROJECT ARTIFACTS
 
