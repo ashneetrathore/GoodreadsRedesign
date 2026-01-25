@@ -5,9 +5,7 @@ Date: December 2024\
 Designer(s): Ashneet Rathore, Rachel Balta, Ananya Srikanth Kashyap, Angela Wang, Sovit Nayak\
 Based on assignment instructions from Prof. Shri Jambhekar
 
-Goodreads is a social platform created for readers to discover, catalog, and share books. Users are able to see what their friends are reading and reviewing, publish book reviews, and organize books into custom shelves.
-
-The Goodreads Profile Redesign is a UI/UX case study focused on improving the user profile page on the Goodreads website. The project followed a three-phase design process: user research, synthesis, and redesign. Teams were given the flexibility to evaluate and redesign any feature or page within a platform of their choice. Based on early user research findings, our team selected the Goodreads profile page as the focus of this project. This repository serves as a centralized hub for all project artifacts, including research documentation and Figma pages.
+The Goodreads Profile Redesign is a UI/UX case study focused on improving the user profile page on the Goodreads website. The project followed a three-phase design process: user research, synthesis, and redesign. Early user research focused on identifying a specific feature or page within Goodreads to improve, leading our team to select the profile page as a key area for redesign. This repository serves as a centralized hub for all project artifacts, including research documentation and Figma pages.
 
 ## :package: PROJECT ARTIFACTS
 
@@ -19,7 +17,7 @@ The Goodreads Profile Redesign is a UI/UX case study focused on improving the us
 
 ## :memo: CASE STUDY SUMMARY
 ### :mag: USER RESEARCH
-Our target subpopulation for the case study was new adult avid readers, ages 18 and 30. Most interviewees expressed dissatisfaction with the Goodreads Discover page, noting that it populates long book lists with outdated, generic titles, instead of offering a streamlined selection of tailored recommendations. Another discovery made was that users placed significant trust in the Goodreads community, particularly in ratings and reviews. Together, these insights suggested that while many users do not rely on the algorithm for the discovery of books, they heavily depend on the community's input to guide their reading choices.
+Goodreads is a social platform created for readers to discover, catalog, and share books. Users are able to see what their friends are reading and reviewing, publish book reviews, and organize books into custom shelves. Our target subpopulation for the case study was new adult avid readers, ages 18 and 30. Most interviewees expressed dissatisfaction with the Goodreads Discover page, noting that it populates long book lists with outdated, generic titles, instead of offering a streamlined selection of tailored recommendations. Another discovery made was that users placed significant trust in the Goodreads community, particularly in ratings and reviews. Together, these insights suggested that while many users do not rely on the algorithm for the discovery of books, they heavily depend on the community's input to guide their reading choices.
 
 ### :bulb: SYNTHESIS
 Based on these insights, we identified an opportunity to emphasize user-driven discovery rather than algorithmic recommendations. We theorized that users would much rather explore recommendations shown on other user's profiles instead of relying on the Discover page.
